@@ -32,7 +32,7 @@ mybatis-plus:
   configuration:
     map-underscore-to-camel-case: true                #开启驼峰映射规则
     
-----
+---
 server:
   port: 8005
   servlet:
